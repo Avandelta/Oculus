@@ -24,12 +24,10 @@ Build.bat
 # Module::Install
 inc/
 
-# ExtUtils::MakeMaker
-/blib/
-/_eumm/
-/*.gz
-/Makefile
-/Makefile.old
-/MANIFEST.bak
-/pm_to_blib
-/*.zip
+# Other
+*.log
+*.7z
+*.gz
+*.zip
+*.dat
+*.lck
