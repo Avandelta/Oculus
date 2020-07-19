@@ -1,28 +1,17 @@
-!Build/
-.last_cover_stats
-/META.yml
-/META.json
-/MYMETA.*
-*.o
-*.pm.tdy
-*.bs
+# Folder
+.vscode/
+.vs/
+.build/
+build/
+libs/
 
-# Devel::Cover
-cover_db/
-
-# Devel::NYTProf
-nytprof.out
-
-# Dizt::Zilla
-/.build/
-
-# Module::Build
-_build/
-Build
-Build.bat
-
-# Module::Install
-inc/
+# Modpack
+*.jar
+*.java
+*.cs
+*.zs
+*.conf
+*.json
 
 # Other
 *.log
@@ -31,3 +20,4 @@ inc/
 *.zip
 *.dat
 *.lck
+*.log.gz
