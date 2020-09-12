@@ -10,7 +10,24 @@ We found that gamers in russian community mostly have problems with administrati
 
 You can write on our email for any additional information and etc: projectavandelta@gmail.com
 
-If you want to contact project's developers through different social networks and other, please, check special folder of this repository.
+If you want to contact project's developers through different social networks and other, please, check information bellow.
+
+**In-Game Developer:**
+
+* `On-Project nickname:` [Falcion](http://deltamine.ru/)
+* `Discord Tag:` [Falcion#2830](https://discord.com/)
+* `Steam:` [Falcion](https://steamcommunity.com/id/falcionml/)
+* `GitHub:` [Falcion](https://github.com/Falcion)
+
+**Out-Game Developer:**
+
+* `On-Project nickname:` [Albee](http://deltamine.ru/)
+* `Discord Tag:` [Albee#4191](https://discord.com/)
+
+**All-In Contacts:**
+
+* `Discord Invite:` [RAZ7f7x](https://discord.gg/RAZ7f7x)
+* `Official Website:` [http://deltamine.ru/](http://deltamine.ru/)
 
 ## Language
 
