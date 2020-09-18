@@ -6,10 +6,10 @@ If you want to write issue on Russian language, please, copy text from special i
 
 There is various types of issues templates that used to be written for various situations. Please, use special type of template for specified situtation.
 
-* Error on Modpack Issue: [Template]().
-* Error in translations: [Template]().
-* Non-Project Request: [Template]().
-* In-Project Contact: [Template]().
+* Error on Modpack Issue: [Template](https://github.com/Avandelta/Homepage/blob/master/.github/English/MODPACK_ISSUE.md).
+* Error in translations: [Template](https://github.com/Avandelta/Homepage/blob/master/.github/English/ISSUE_TRANSLATION.md).
+* Non-Project Request: [Template](https://github.com/Avandelta/Homepage/blob/master/.github/English/MODPACK_ISSUE.md).
+* In-Project Contact: [Template](https://github.com/Avandelta/Homepage/blob/master/.github/English/CONTACT_TEMPLATE.md).
 
 ## Additional Information
 
