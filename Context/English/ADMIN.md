@@ -86,15 +86,15 @@
 
     1.1) Full authority over the lower composition of the administration.
     1.2) Full authority over the editing of a certain composition of the administration.
-    1.3) Equal rights in server editing as the manager of server.
+    1.3) Equal rights in server editing as the ruler.
 
-2.) **Manager of Server** is a position assigned or edited only by developers or reviewers, it is responsible for managing the administration of the server (hereinafter referred to as the administration) and the server as such. Has (see the basic rules of the project):
+2.) **Ruler** is a position assigned or edited only by developers or reviewers, it is responsible for managing the administration of the server (hereinafter referred to as the administration) and the server as such. Has (see the basic rules of the project):
 
     2.1) Full power over the lower composition of the administration.
     2.2) Full authority over the editing of a certain composition of the administration.
     2.3) Rights to edit server parameters.
 
-3.) **Senior staff of the administration** is a group of administrative positions, appointed only by the the manager of server (and higher), it includes the administrator and the manager. Has (see the basic rules of the project):
+3.) **Senior staff of the administration** is a group of administrative positions, appointed only by the the ruler (and higher), it includes the administrator and the manager. Has (see the basic rules of the project):
 
     3.1) Full authority over the lower composition of the administration.
     3.2) Partial rights to edit server parameters.

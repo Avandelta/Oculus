@@ -1,15 +1,15 @@
 # Main rules of Project
 
-## Chapter I: Manager of server.
+## Chapter I: Ruler.
 
-1.) **Manager of server** - is a position assigned or edited only by developers or auditors, it is responsible for managing the administration of the server (hereinafter referred to as the administration) and the server.
+1.) **Ruler** - is a position assigned or edited only by developers or auditors, it is responsible for managing the administration of the server (hereinafter referred to as the administration) and the server.
 
-2.) The manager of server has the right to completely dissolve the entire administration if these conditions are met (or) ⁽¹⁾:
+2.) The ruler has the right to completely dissolve the entire administration if these conditions are met (or) ⁽¹⁾:
 
     2.1) According to the results of general voting on this server, at least ½ (half) of the voters chose the item for the complete dissolution of the administration.
     2.2) Written decree or direct consent of the developers to the action of the type of dissolution of the entire administration.
 
-3.) The manager of server is limited by some conditions, but also has the right to ⁽²⁾:
+3.) The ruler is limited by some conditions, but also has the right to ⁽²⁾:
 
     3.1) Full editing in accordance with the terms of the agreement and project quality standards:
 
@@ -31,16 +31,16 @@
         3.3.1) Full editing of the composition of the administration of this server.
         3.3.2) Full editing of the charter of the administration of this server.
 
-4.) The manager of server has the full right to block the project's user (hereinafter - the player) on this server if these conditions are met ⁽¹⁾:
+4.) The ruler has the full right to block the project's user (hereinafter - the player) on this server if these conditions are met ⁽¹⁾:
 
     4.1) The player was seen in the most severe offenses on other servers of this project (or he was included in the black list of the project).
     4.2) The player violated the rules of this server or the rights of other players, for which he is obliged, according to the rules, to receive a punishment in the form of blocking an account on this server.
     4.3) In fact, he was a former member of the administration of the project and at the time of the former administration was convicted of violating the charter and rules of the project (server) at the time of administration.
 
-5.) The manager of server has the full right to challenge the investigations of the auditors if these conditions are met ⁽¹⁾:
+5.) The ruler has the full right to challenge the investigations of the auditors if these conditions are met ⁽¹⁾:
 
     5.1) The evidence, or the overall evidence base for this investigation, is too weak to continue the investigation.
-    5.2) The manager of server of this server has direct incontrovertible evidence indicating his innocence despite the investigation.
+    5.2) The ruler of this server has direct incontrovertible evidence indicating his innocence despite the investigation.
     5.3) This investigation destabilizes life on the server or discredits the current administration without direct evidence.
     5.4) The inspector who led the investigation was found to have fraudulently, purchased and otherwise illegally produced evidence for this or these investigations.
 
@@ -61,12 +61,12 @@
     3.2) The player violated the rules of this server or the rights of other players, for which he is obliged, according to the rules, to receive a punishment in the form of blocking an account on this server.
     3.3) In fact, he was a former member of the administration of the project and at the time of the former administration was caught in violation of the charter and rules of the project (server) at the time of administration.
 
-4.) The administration of this server has the full right to initialize the voting process on the server without taking into account the manager of server among the players, if these conditions are met ⁽¹⁾:
+4.) The administration of this server has the full right to initialize the voting process on the server without taking into account the ruler among the players, if these conditions are met ⁽¹⁾:
 
     4.1) The initialization of this vote does not violate any of the rules of this server, the basic rules of the project, or other documentation of the project (or server).
     4.2) The voting itself and its content does not violate the rules of this server, the basic rules of the project or other documentary data of the project (or server).
 
-5.) The administration of this server has the full right to initialize the process of removing the manager of server from his post if these conditions are met (or) ⁽¹⁾:
+5.) The administration of this server has the full right to initialize the process of removing the ruler from his post if these conditions are met (or) ⁽¹⁾:
 
     5.1) The result of voting among the players of this server is the result, where at least ½ (half) of the voters chose the item for the removal from office of the current manager of this server.
 
@@ -100,7 +100,7 @@
 
 2.) The auditor is limited by certain conditions, but is also entitled to ⁽²⁾:
 
-    2.1) Full interaction with the server on an equal footing with the manager of server (see chapter 1, article 3).
+    2.1) Full interaction with the server on an equal footing with the ruler (see chapter 1, article 3).
     2.2) Dissolution of the entire administration on temporary conditions in an early mode, subject to these conditions ⁽¹⁾:
 
         2.2.1) The presence of a direct written decree of the project developers.
