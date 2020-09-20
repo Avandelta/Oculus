@@ -10,7 +10,7 @@ We found that gamers in russian community mostly have problems with administrati
 
 You can write on our email for any additional information and etc: projectavandelta@gmail.com.
 
-If you want to contact project's developers directly through different social networks or other, please, check information bellow.
+If you want to contact project's developers directly through different social networks or other, please, check information below.
 
 **In-Game Developer:**
 
