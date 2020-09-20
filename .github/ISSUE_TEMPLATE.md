@@ -4,7 +4,7 @@ If you want to write some topic that affect theme of modpacks or in-game themati
 
 ## Body of Issue:
 
-Write specified information that associated with your topic. If you writing information about modpack or in-game issue (or just something else), please, check box bellow (if you don't write issue about modpack and etc, remove block bellow including client and crash logs with FAQ):
+Write specified information that associated with your topic. If you writing information about modpack or in-game issue (or just something else), please, check box below (if you don't write issue about modpack and etc, remove block below including client and crash logs with FAQ):
 
 ## Client Log:
 
