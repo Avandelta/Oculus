@@ -12,12 +12,22 @@ You can write on our email for any additional information and etc: projectavande
 
 If you want to contact project's developers directly through different social networks or other, please, check information below.
 
-**Developer:**
+**In-Game Developer:**
 
 * `On-Project nickname:` [Falcion](http://deltamine.ru/)
 * `Discord Tag:` [Falcion#2830](https://discord.com/)
 * `Steam:` [Falcion](https://steamcommunity.com/id/falcionml/)
 * `GitHub:` [Falcion](https://github.com/Falcion)
+
+**Out-Game Developer:**
+
+* `On-Project nickname:` [Albee](http://deltamine.ru/)
+* `Discord Tag:` [Albee#4191](https://discord.com/)
+
+**Website and Discord Server:**
+
+* `Official Website:` [http://deltamine.ru/](http://deltamine.ru/)
+* `Discord Invite:` [RAZ7f7x](https://discord.gg/RAZ7f7x)
 
 ## Language Politics.
 
