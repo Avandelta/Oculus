@@ -37,7 +37,7 @@ Our language politics doesn't restrict other languages, but we recommend that yo
 
 ## License.
 
-This repository is licensed under [Apache v2.0](https://github.com/Avandelta/Homepage/blob/master/LICENSE).
+This repository is licensed under [Apache v2.0](https://github.com/Avandelta/Homepage/blob/main/LICENSE).
 
 ```LICENSE
                                  Apache License
