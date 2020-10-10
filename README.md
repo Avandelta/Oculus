@@ -27,4 +27,5 @@ Mail of our organization (project), intended for various requests: **projectavan
 
 The main language of the project is Russian, but the GitHub of this project is in English so that anyone can read the necessary information. We strongly recommend you in Russian when interacting with the project community, because in extreme cases, you may not be understood.
 
+## License
 This repository and all copyrighted content are licensed under **[Apache v2.0](https://github.com/Avandelta/Homepage/blob/main/LICENSE)**.
