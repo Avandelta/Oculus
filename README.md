@@ -1,5 +1,3 @@
-# Homepage
-
 ## About Us.
 
 Our project wants to increase quality's level of all semi-russian Minecraft servers. We want to prove that administration can be not useless, can be funny and acting like human. We want to show users what good modpacks are and show them rules and administration system which representing user's wishes itself, just like: cozy atmosphere and quite likely chill gameplay.
