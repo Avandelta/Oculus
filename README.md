@@ -20,7 +20,7 @@ Mail of our organization (project), intended for various requests: **projectavan
 
 **General information on the project:**
 
-* Official site: **[deltamine.ru](http://deltamine.ru)**
+* Official website: **[deltamine.ru](http://deltamine.ru)**
 * Official Discord Server: **[RAZ7f7x](https://discord.gg/RAZ7f7x)**
 
 ## Language Policy
