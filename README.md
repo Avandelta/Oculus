@@ -4,7 +4,7 @@
 
 Lingua is a repository that allows our project users to read and edit rules without forum.
 
-It's designed to store original or unchangeable rules and also serves as a forum page for our organization.
+Lingua designed to store original rules. It also serves as a forum page for our GitHub organization.
 
 ## Prerequisites
 
