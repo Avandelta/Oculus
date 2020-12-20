@@ -11,7 +11,7 @@ Lingua designed to store original rules. It also serves as a forum page for our 
 Before you begin, ensure you have met the following requirements:
 
   * You have an account on our project.
-  * You have read the current rules and their [Restriction Policy](https://github.com/Avandelta/Lingua/blob/main/RESTRICTION.md).
+  * You have read the current rules and their Restriction Policy.
 
 ## Contributing to Lingua
 
