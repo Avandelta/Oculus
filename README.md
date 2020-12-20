@@ -2,6 +2,10 @@
 
 ![repo size](https://img.shields.io/github/repo-size/Avandelta/Lingua?color=blue&style=flat) ![contributors](https://img.shields.io/github/contributors/Avandelta/Lingua?color=yellow) ![stars](https://img.shields.io/github/stars/Avandelta/Lingua?style=social)
 
+Lingua is a repository that allows our project users to read and edit rules without forum.
+
+It's designed to store original or unchangeable rules and also serves as a forum page for our organization.
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
