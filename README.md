@@ -1,6 +1,8 @@
 # Lingua
 
-![repo size](https://img.shields.io/github/repo-size/Avandelta/Lingua?color=blue&style=flat) ![contributors](https://img.shields.io/github/contributors/Avandelta/Lingua?color=yellow) ![stars](https://img.shields.io/github/stars/Avandelta/Lingua?style=social)
+![Size](https://img.shields.io/github/repo-size/Avandelta/Lingua?color=blue&style=flat) 
+![Contributors](https://img.shields.io/github/contributors/Avandelta/Lingua?color=yellow) 
+![Stars](https://img.shields.io/github/stars/Avandelta/Lingua?style=social)
 
 Lingua is a repository that allows our project users to read and edit rules without forum.
 
