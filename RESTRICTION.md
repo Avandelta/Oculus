@@ -1,15 +1,16 @@
 # Restriction Policy
 
-Editing project rules is limited by some special conditions that are set either globally or locally.
+Editing project rules is limited by special conditions that are set either globally or locally.
 
-Our project follows the Mojang studio user agreement and also has its own user agreement. Some rules refer to these documents.
+Project follows the Mojang Studio Terms of Service and also has its own agreement. Either of rules refer to these terms.
 
 ## Terms of Editing
 
 When editing project rules, you must comply with the following conditions:
 
-  * You can't edit the legal instruction except for lexical or grammatical errors.
-  * You can't edit the legal clauses of the rules without direct reference to the legal instructions.
-  * You can't edit the clauses of the rules in accordance without direct reference to the legal instructions, user agreement.
-  * You can't edit the punishment system without direct reference to the legal instruction, administration charter, and rules within the project.
-  * You can't edit the penalties system or administration charter without direct reference to legal instructions, user agreements or rules within the project.
+  * You should edit only on project main language.
+  * You must not edit the Legal Instruction except for lexical or grammatical errors.
+  * You used to edit the legal clauses of the Rules with direct reference to the Legal Instruction.
+  * You used to edit the clauses of the Rules in accordance without direct reference to edit the Legal Instruction and Terms of Service.
+  * You used to edit the Penalty System without direct reference to the Legal Instruction, Administration Charter and Rules within the Project.
+  * You might edit the Penalty System or Administration Charter with direct reference to Legal Instruction, Terms of Service or Rules within the Project.
