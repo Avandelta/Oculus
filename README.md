@@ -1,12 +1,12 @@
-# Oculus
+# Forum
 
-![Size](https://img.shields.io/github/repo-size/Avandelta/Oculus)
-![Contributors](https://img.shields.io/github/contributors/Avandelta/Oculus) 
-![Stars](https://img.shields.io/github/stars/Avandelta/Oculus?style=social) 
-![Forks](https://img.shields.io/github/forks/Avandelta/Oculus?style=social) 
-![Issues](https://img.shields.io/github/issues/Avandelta/Oculus?logo=github&style=social)
+![Size](https://img.shields.io/github/repo-size/Avandelta/Forum)
+![Contributors](https://img.shields.io/github/contributors/Avandelta/Forum) 
+![Stars](https://img.shields.io/github/stars/Avandelta/Forum?style=social) 
+![Forks](https://img.shields.io/github/forks/Avandelta/Forum?style=social) 
+![Issues](https://img.shields.io/github/issues/Avandelta/Forum?logo=github&style=social)
 
-Oculus is a repository built to store binary, project documentation and act as forum of GitHub organization.
+Forum is a repository built to store binary, project documentation and act as forum of GitHub organization.
 
 It contains original and binary versions of project documentation including agreement. For additional information, go to the special page at forum.
 
