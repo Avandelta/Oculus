@@ -2,7 +2,7 @@
 
 To edit any kind of current documentation for non-binary viewing by other users, you must go through a special procedure to keep the project secure.
 
-## Contributing to Consilium
+## Contributing to Oculus
 
 To contribute to documentation, follow these steps:
 

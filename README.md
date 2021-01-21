@@ -1,12 +1,12 @@
 # Consillium
 
-![Size](https://img.shields.io/github/repo-size/Avandelta/Consilium)
-![Contributors](https://img.shields.io/github/contributors/Avandelta/Consilium) 
-![Stars](https://img.shields.io/github/stars/Avandelta/Consilium?style=social) 
-![Forks](https://img.shields.io/github/forks/Avandelta/Consilium?style=social) 
-![Issues](https://img.shields.io/github/issues/Avandelta/Consilium?logo=github&style=social)
+![Size](https://img.shields.io/github/repo-size/Avandelta/Oculus)
+![Contributors](https://img.shields.io/github/contributors/Avandelta/Oculus) 
+![Stars](https://img.shields.io/github/stars/Avandelta/Oculus?style=social) 
+![Forks](https://img.shields.io/github/forks/Avandelta/Oculus?style=social) 
+![Issues](https://img.shields.io/github/issues/Avandelta/Oculus?logo=github&style=social)
 
-Consilium is a repository built to store binary, project documentation and act as forum of GitHub organization.
+Oculus is a repository built to store binary, project documentation and act as forum of GitHub organization.
 
 It contains original and binary versions of project documentation including agreement. For additional information, go to the special page at forum.
 
