@@ -1,4 +1,4 @@
-# Consillium
+# Oculus
 
 ![Size](https://img.shields.io/github/repo-size/Avandelta/Oculus)
 ![Contributors](https://img.shields.io/github/contributors/Avandelta/Oculus) 
