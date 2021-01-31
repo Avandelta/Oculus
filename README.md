@@ -8,7 +8,7 @@
 
 Forum is a repository built to store binary, project documentation and act as forum of GitHub organization.
 
-It contains original and binary versions of project documentation including agreement. For additional information, go to the special page at forum.
+Documentation used on project as a whole are written in Russian. 
 
 ## Prerequisites
 
