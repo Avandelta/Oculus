@@ -6,9 +6,9 @@ If you would like to mention your copyrighted content directly, contact develope
 
 ### Downloading Policy
 
-- Before you download any content from repository, ensure you read the authorship license.
+- Before you download any content from repository, ensure you read the authorship/distributing license.
 
-- For non-commercial/private usage, you can download the pack with help of release on repository.
+- For non-commercial/private usage, you can download the documentation with help of release on repository.
 
 - For commerical/public usage, you need to contact the developer team directly to set up the terms of distributing.
 
