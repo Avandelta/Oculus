@@ -16,7 +16,7 @@ If you want to contribute to project and download source, use GitHub CLI:
 
 `gh repo clone Avandelta/Forum`
 
-If you want to download the readable source, read the security policy file.
+If you want to read the English edit of documentation, contact directly to the developer team.
 
 ## Contributing to Forum
 
