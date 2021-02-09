@@ -31,3 +31,7 @@
 	cachetextconv = false
 
 	*.bin diff=bin
+
+[diff "pdf"]
+	textconv = exif
+	cachetextconv = true
