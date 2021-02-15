@@ -7,7 +7,7 @@ assignees: Falcion
 
 ---
 
-**Describe the bug (within the project version)**
+**Describe the bug (within the pack version)**
 A clear and concise description of what the bug is.
 
 **To Reproduce**
