@@ -10,5 +10,8 @@ assignees: Falcion
 **Describe an error (within the document name and path):**
 A clear and concise description of an error.
 
+**What version of documentation are you referencing:**
+Type a version of documentation here.
+
 **Additional context**
 Add any other context or screenshots about the documentation topic here.
