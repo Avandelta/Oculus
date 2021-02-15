@@ -7,7 +7,7 @@ assignees: Falcion
 
 ---
 
-**Describe and idea:**
+**Describe an idea:**
 Describe your idea here.
 
 **Describe the solution you'd like:**
