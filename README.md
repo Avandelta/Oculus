@@ -6,11 +6,15 @@
   The documentation for project Delta.
 </p>
 
-![Contributing](https://img.shields.io/github/contributors/Avandelta/Documentation?color=brightgreen) 
-![Star Amount](https://img.shields.io/github/stars/Avandelta/Documentation?style=social) 
-![Fork Amount](https://img.shields.io/github/forks/Avandelta/Documentation?style=social)
-![Watchers Count](https://img.shields.io/github/watchers/Avandelta/Documentation?style=social) 
-![Coverage](https://img.shields.io/badge/coverage-51%25-brightgreen)
+<div></div>
+
+<div align="center">
+    <p style="min-width: max-content;">
+      <img src="https://img.shields.io/github/stars/Avandelta/Documentation?style=social">
+      <img src="https://img.shields.io/github/forks/Avandelta/Documentation?style=social">
+      <img src="https://img.shields.io/github/watchers/Avandelta/Documentation?style=social">
+    </p>
+</div>
 
 - Infers parameters, types, membership and more within the website's forum.
 - Integrates with GitHub to link directly from documentation to the source it refers to.
