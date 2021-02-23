@@ -46,14 +46,14 @@
 
 [diff "pdf"]
     textconv=exif
-    cachetextconv = true
+    cachetextconv=true
 
     *.pdf filter=lfs diff=lfs merge=lfs -text
 
 # Encrypt the repository
-*.* filter=git-crypt diff=git-crypt
-.gitattributes !filter !diff
-.gitignore !filter !diff
+NULL  filter=git-crypt diff=git-crypt
+
+*.* !filter !diff
 
 # Documentation
 *.ipynb           text
@@ -82,11 +82,11 @@ readme            text
 TODO              text
 
 # Document
-*.doc filter=lfs diff=astextplain merge=lfs -text
+*.doc  filter=lfs diff=astextplain merge=lfs -text
 *.docx filter=lfs diff=astextplain merge=lfs -text
-*.dot filter=lfs diff=astextplain merge=lfs -text
-*.pdf filter=lfs diff=astextplain merge=lfs -text
-*.rtf filter=lfs diff=astextplain merge=lfs -text
+*.dot  filter=lfs diff=astextplain merge=lfs -text
+*.pdf  filter=lfs diff=astextplain merge=lfs -text
+*.rtf  filter=lfs diff=astextplain merge=lfs -text
 
 # Configuration
 *.cnf             text
