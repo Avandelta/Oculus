@@ -9,6 +9,10 @@
 # Set default behaviour to automatically normalize line endings.
 * text=auto
 
+###############################
+# Git Line Endings            #
+###############################
+
 # Source code
 *.cmd             text eol=crlf
 *.coffee          text
@@ -115,6 +119,10 @@ makefile          text
 
 # Docker
 Dockerfile        text
+
+###############################
+# Git Large File System (LFS) #
+###############################
 
 # Graphics
 *.ai              binary
