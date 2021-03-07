@@ -1,6 +1,6 @@
 ---
 name: Crash Report
-about: Create a report about project crash to help us improve.
+about: Create a report about project crash to help improve the project.
 title: 'CRASH: Type your crash report title here.'
 labels: 'High Priority, Crash'
 assignees: Falcion
