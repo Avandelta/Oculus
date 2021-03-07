@@ -4,9 +4,9 @@ A code of conduct, also called privacy and code of conduct, are the policies and
 
 ## Preamble
 
-Project was created to foster an open, innovative and inclusive community around open source idea. To clarify expected behaviour in communities maintaners have adopted the [Contributor Covenant](http://contributor-covenant.org/). 
+Project was created to foster an open, innovative and inclusive community around open source idea. To clarify expected behaviour in communities maintaners have adopted the [Contributor Covenant](http://contributor-covenant.org/). This code of conduct has been adopted by [many other open source communities](http://contributor-covenant.org/adopters/) and maintaners feel it expresses their values well. 
 
-This code of conduct has been adopted by [many other open source communities](http://contributor-covenant.org/adopters/) and maintaners feel it expresses their values well. 
+Community Impact Guidelines were inspired by [Mozilla’s code of conduct enforcement ladder](https://github.com/mozilla/diversity).
 
 ## Pledge
 
@@ -69,9 +69,3 @@ Consequence is a temporary ban from any sort of interaction or public communicat
 Community impact is a demonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals.
 
 Consequence is a permanent ban from any sort of public interaction within the community.
-
-## Attribution
-
-This Code of Conduct is adapted from the Contributor Covenant version 2.0, avalaible at https://www.contributor-covenant.org/version/2/0/code_of_conduct.
-
-Community Impact Guidelines were inspired by [Mozilla’s code of conduct enforcement ladder](https://github.com/mozilla/diversity).
