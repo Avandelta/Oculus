@@ -11,9 +11,10 @@ assignees: Falcion
 
 A clear and concise description of what the bug is.
 
-**To Reproduce:**
+**Reproducing steps:**
 
 Steps to reproduce the behavior:
+
 1. '...'
 
 **Link to client log:**
@@ -21,6 +22,7 @@ Steps to reproduce the behavior:
 The client log can provide the necessary context for why the exception occurred. You can use a different paste services like [Hastebin](https://hastebin.com) or [Pastebin](https://pastebin.com) to upload the log, and paste the link here. The log file can be found in your logs folder.
 
 **Desktop (please complete the following information):**
+
  - OS: [e.g. iOS]
  - Version [e.g. 22]
 

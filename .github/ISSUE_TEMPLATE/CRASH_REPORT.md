@@ -20,6 +20,7 @@ Even of there is a crash log, the client log can provide the necessary context f
 The call-stacks in the log will help pinpoint the actors involved in the crash and give a developer a pointer where to start looking at the problem. You can use a different paste services like [Hastebin](https://hastebin.com) or [Pastebin](https://pastebin.com) to upload the log, and paste the link here.
 
 **Desktop (please complete the following information):**
+
  - OS: [e.g. iOS]
  - Version: [e.g. 22]
 
