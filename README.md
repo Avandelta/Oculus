@@ -9,7 +9,7 @@ Repository contains legal documentation and terms of use for current organizatio
 You can read this documentation on the different languages at site pinned in this repository (or referenced in legal documents).
 
 If you want to use same legal information or documentation at your public project, make above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+copies or substantial portions of the project.
 
 ## Contributing
 
