@@ -37,8 +37,8 @@ markComment: >
   Issue was marked as stale because of no activity of discussioning at it.
 
 # Comment to post when removing the stale label.
-# unmarkComment: >
-#   Issue was unmarked as stale because of recent activity of discussioning at it.
+unmarkComment: >
+  Issue was unmarked as stale because of recent activity of discussioning at it.
 
 closeComment: >
   Issue was automatically closed due no response from the original author either 
