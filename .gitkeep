@@ -1,0 +1,12 @@
+# Non-configured paths of documentation.
+
+HTML/
+JSON/
+
+# Markup paths of documentation.
+
+Markdown/
+
+# Extensions to the documentation.
+
+.extensions.json
