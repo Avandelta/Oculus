@@ -2,12 +2,12 @@
 #
 # Non-configured resources for editor environment.
 
-resources/
+/resources/
 
 # Static context of environment.
 
-static/
+/static/
 
 # Public domain resources.
 
-public/
+/public/
