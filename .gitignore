@@ -1,0 +1,13 @@
+# GITIGNORE.
+#
+# Non-configured resources for editor environment.
+
+resources/
+
+# Static context of environment.
+
+static/
+
+# Public domain resources.
+
+public/
