@@ -13,3 +13,5 @@ Redistribution and use in source and compiled forms with or without modification
 Author is not affiliated with authors of content not of its authorship or any entity potential mentioned in this document or relevant source code for this software. Use of their names, trademarks is strictly circumstantial and assumed fair-use.
 
 Credit for their respective works, software, branding, copyrights, trademarks belongs entirely to them as own licensers or authors.
+
+Unless otherwise stated in this repository anything else is under jurisdiction of MS-PL License.
