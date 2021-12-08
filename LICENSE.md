@@ -1,5 +1,3 @@
-\
-
 Redistribution and use in source and compiled forms with or without modification are permitted provided that the following conditions are met:
  
 * You must give appropriate credit to the author as creator of origin for any parts of this software being used: link back to origin is mandatory.
