@@ -2,13 +2,13 @@
 
 #### Introduction
 
-Any juristical documentation, which is stored in public access in this repository — is genuine and distributes its offer only to users that have registered an account on this project domain: respectively third-party users can not edit this document.
+Any juristical documentation, which is stored in public access in this repository — is genuine and distributes its offer only to users that have registered an account on this project website: respectively third-party users cannot edit those documents.
 
 Documentation is kept in the public domain for two reasons: one of them is technical and the other is consistent with the projects attitude towards open source policy — in case of talking about the technical purpose, then thanks to this system, the website can dynamically update documents on the page itself, in accordance with the laws of the country in which the project is contained, so the project supports the open source philosophy — we ourselves use some source code and want to do our part to help us.
 
 #### Dependencies
 
-Files are strictly separated into directories that are in this project — this is due to both technical and graphical purposes: as, for example, directories which are associated with files containing translations of related documents.
+Files are strictly separated into directories that are in this project — this is due to both technical and graphical purposes: as, for example, directories which are associated with files containing translations of related documents are in the corresponding language folders.
 
 — the project wants to warn that its official jurisprudence is distributed in russian and communicates to citizens of the post-soviet space.
 
