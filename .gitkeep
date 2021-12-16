@@ -6,11 +6,11 @@
 
 # Different variations of documents.
 
-*/HTML/*
-*/JSON/*
+/HTML/*
+/JSON/*
 
-*/Markdown/*
+/Markdown/*
 
 # Environment setup.
 
-.credentials/
+/.credentials/*
