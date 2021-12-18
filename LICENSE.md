@@ -1,4 +1,4 @@
-— unless otherwise stated in this repository anything else is under jurisdiction of MS-PL License.
+— unless otherwise stated in this repository anything else is under jurisdiction of MS-PL License which is written by Microsoft.
 
 Redistribution and use in source and any compiled forms with or without modification are permitted provided that the following conditions are met:
 
