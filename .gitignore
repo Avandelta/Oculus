@@ -1,0 +1,21 @@
+# GITIGNORE.
+#
+# LOG-entries.
+
+*.log
+
+# Environment of VS.
+
+.vs/
+
+# Environment of IDEA.
+
+.idea/
+
+# … settings of environment.
+
+/jupyter-notebook/
+
+# NODE Artifact.
+
+dist/
