@@ -1,10 +1,10 @@
 # GITKEEP.
 #
-# … resources of documentations.
+# … resources.
 
 .environment.json
 
-# Different variations of documents.
+# Different compiled entries of documentation.
 
 /HTML/*
 /JSON/*

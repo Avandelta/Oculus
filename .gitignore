@@ -1,6 +1,6 @@
 # GITIGNORE.
 #
-# LOG-entries.
+# LOG.
 
 *.log
 
@@ -12,10 +12,10 @@
 
 .idea/
 
-# … settings of environment.
+# … additional settings.
 
 /jupyter-notebook/
 
-# NODE Artifact.
+# NODE Artifacts.
 
 dist/
