@@ -22,6 +22,6 @@ Any contact information is either contained in the juristical documents themselv
 
 Content which developed by the project and its developers is distributed strictly under the license of the given repository as indicated in the repository file: all content that belongs to third parties belongs only to them either their publishers.
 
-… for more information on the license see the specified file.
-
 — License is written with help and based on the MS-PL by Microsoft.
+
+… for more information on the license see the specified file.
