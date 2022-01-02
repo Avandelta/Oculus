@@ -10,4 +10,4 @@ Redistribution and use in source and any compiled forms with or without modifica
 
 Author is not affiliated with licensers or related authors of content not of its authorship or any entity potential mentioned in this document or relevant source code for this software: use of their names, trademarks is strictly circumstantial  and assumed fair-use.
 
-Credit for their respective works, software, branding, copyrights, tradmarks belongs entirely to them as own licensers or authors.
+Credit for their respective works, software, branding, copyrights, trademarks belongs entirely to them as own licensers or authors.
