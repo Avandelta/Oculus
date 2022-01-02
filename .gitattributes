@@ -69,7 +69,7 @@ readme            text
 *README*          text
 TODO              text
 
-# … patterns.
+# … patterns and templates.
 
 *.dot             text
 *.ejs             text
@@ -192,7 +192,7 @@ makefile          text
 *.exe             binary
 *.pyc             binary
 
-# … entries.
+# … entries and different compiled data.
 
 *.class           binary
 *.dll             binary
@@ -202,7 +202,7 @@ makefile          text
 *.war             binary
 *.jks             binary
 
-# … compiled forms of documents.
+# … any compiled forms of documents.
 
 *.doc             -text filter=lfs diff=astextplain merge=lfs
 *.dot             -text filter=lfs diff=astextplain merge=lfs
@@ -212,11 +212,11 @@ makefile          text
 
 # Configurations of setting up the strings in environment setups.
 #
-# … files of-in RC-formattings. 
+# … files of-in RC-formatting. 
 
 *.*rc             text
 
-# … files of-in IGNORE-formattings.
+# … files of-in IGNORE-formatting.
 
 *.*ignore         text
 
