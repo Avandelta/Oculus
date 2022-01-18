@@ -1,0 +1,16 @@
+# GITKEEP.
+#
+# … resources.
+
+.environment.json
+
+# Different compiled entries of documentation.
+
+/HTML/*
+/JSON/*
+
+/Markdown/*
+
+# Environment setup.
+
+/.credentials/*
