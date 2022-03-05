@@ -4,10 +4,6 @@ In the first terms to the any possible contributor: before creating a contributi
 
 Any contributor must know that the fact of editing the any version of jural documentation will require review of the any developer from the projects developer team: excluding in-game documentation and files of the repository.
 
-For one-single file contributioning pull-requests, use a more quicker way without cloning of fork.
-
-More about it: [Synching a fork](https://help.github.com/articles/syncing-a-fork).
-
 #### Contributing the repository files
 
 1. Fork current repository.
@@ -18,6 +14,8 @@ More about it: [Synching a fork](https://help.github.com/articles/syncing-a-fork
 6. Push for forked repository.
 7. Create a pull-request.
 8. Squash commits for cleaner history.
+
+For one-single file contributioning pull-requests, use a more quicker way without cloning of fork.
 
 #### Contributing the jural files
 
