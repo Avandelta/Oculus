@@ -1,0 +1,5 @@
+# GITIGNORE for a documentation project.
+#
+# Workspace setup.
+
+.vscode/
