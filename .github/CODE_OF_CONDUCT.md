@@ -40,3 +40,11 @@ Violations of the code of conduct may be reported by sending to written in READM
 Any report will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances: further details of specific enforcement policies may be posted separately.
 
 Project hold the right and responsibility to remove comments or other contributions that are not aligned to this contributor covenant, or to ban temporarily or permanently any members for other behaviours that they deem inappropriate, threatening, offensive, or harmful.
+
+### Attribution
+
+For answers to common questions about this code of conduct, see the FAQ at link with specified article and as for the translations: they are avalaible at also specified article-link.
+
+- https://www.contributor-covenant.org/faq
+- https://www.contributor-covenant.org/translations
+
