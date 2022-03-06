@@ -1,6 +1,6 @@
 Any participant of this project are expected to abide by this code of conduct: both online and during in-person events that are hosted and/or associated with this organization.
 
-The organization was created to foster an open, innovative and inclusive community around open source: to clarify expected behaviour in communities project have adopted the contributor covenant.
+Organization was created to foster an open, innovative and inclusive community around open source: to clarify expected behaviour in communities project have adopted the contributor covenant.
 
 — [Contributor Covenant](https://www.contributor-covenant.org/)
 
@@ -10,7 +10,7 @@ As members, contributors, and leaders pledge to make participation in this commu
 
 Project pledges to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 
-### Standards
+### Behaviour
 
 Examples of behaviour that contributes to creating a positive environment include:
 
