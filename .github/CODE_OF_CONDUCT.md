@@ -35,6 +35,8 @@ Examples of unacceptable behaviour by participants include:
 
 Violations of the code of conduct may be reported by sending to written in README e-mail or creating an issue.
 
+- <a href= "mailto: jr.deltamine@outlook.com">Outlook E-mail</a>
+
 Any report will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances: further details of specific enforcement policies may be posted separately.
 
 Project hold the right and responsibility to remove comments or other contributions that are not aligned to this contributor covenant, or to ban temporarily or permanently any members for other behaviours that they deem inappropriate, threatening, offensive, or harmful.
