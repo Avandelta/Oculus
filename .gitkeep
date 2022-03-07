@@ -1,0 +1,10 @@
+# GITKEEP for a documentation project.
+#
+# Documentation setup.
+
+**/ru-RU/
+**/en-US/
+
+# Environment.
+
+*/.essentials/*
