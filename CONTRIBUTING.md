@@ -21,6 +21,4 @@ For one-single file contributioning pull-requests, use a more quicker way withou
 
 As it said before: contributor in the terms of legal validity just can't simply contribute to the jural valid documentation — but still any contributor could help with this documents quality and visuals.
 
-For contribution in jural vector: create an issue of special template and write any required information via your contributioning.
-
-— contributioning to the translations of the jural documentation are not restricted with this rules: but its highly recommended to apply some dictionary information about your edits.
+Contributioning to the different consecutive interpretations of the jural documentation are not restricted with this rules: but its highly recommended to apply some dictionary information about your edits.
