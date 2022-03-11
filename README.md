@@ -12,7 +12,7 @@ Also developers could be contacted with their juristical e-mail:
 
 - <a href= "mailto: jr.deltamine@outlook.com">Outlook E-mail</a>.
 
-##### Public domain
+##### Open source-code
 
 Keep in mind that there is some reasons to publish a source like this to public domain:
 
