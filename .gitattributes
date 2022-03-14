@@ -1,4 +1,4 @@
-# ATTRIBUTES for a documentation project.
+# GITATTRIBUTES for custom project.
 #
 # Auto-detect any text and leave files detected as binary untouched.
 # Set default behaviour to automatically normalize the line endings.

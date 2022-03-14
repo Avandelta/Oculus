@@ -4,7 +4,7 @@ Organization was created to foster an open, innovative and inclusive community a
 
 — [Contributor Covenant](https://www.contributor-covenant.org/)
 
-### Pledge
+### Obligation
 
 As members, contributors, and leaders pledge to make participation in this community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
 

@@ -20,6 +20,14 @@ Keep in mind that there is some reasons to publish a source like this to public 
 
 - Another cause is actually the tech reason: website of the project with help of «Github API» can detect any changes, see the detailed information about it and clone new version of the document direct on the page.
 
+#### License
+
+Content which developed by the project and its developers is distributed strictly under the license of the given repository as indicated in the repository file: all content that belongs to third parties belongs only to them either their publishers.
+
+— License is written with help and based on the MS-PL by Microsoft.
+
+More about it: [Custom LC](LICENSE.md).
+
 #### LFS
 
 Project needs LFS as dependency because of compiled forms of documentations and its size on the hard drives.
@@ -31,11 +39,3 @@ Repository splitted into numerous count of directories for the direct hierarchy 
 Ensure fact that any document could have HTML comments inside it: this addon to the compiled forms of docs helps to communicate with contributors and other developers with no-direct form.
 
 Project welcomes support from the community in resolving juristical inconsistencies or other deficiencies — the project respects and tries to support inaugural content as much as possible and does not try to copyright content that does not belong to it.
-
-#### License
-
-Content which developed by the project and its developers is distributed strictly under the license of the given repository as indicated in the repository file: all content that belongs to third parties belongs only to them either their publishers.
-
-— License is written with help and based on the MS-PL by Microsoft.
-
-More about it: [Custom LC](LICENSE.md).
