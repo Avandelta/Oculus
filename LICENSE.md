@@ -48,3 +48,21 @@ This includes other CC-licensed material, or material used under an exception or
 </br>
 
 - https://wiki.creativecommons.org/wiki/Considerations_for_licensors_and_licensees#Considerations_for_licensees
+
+<h4>Contents of CCA-4.0 License</h4>
+
+By exercising the licensed rights which defined below in this paragraph, you accept and agree to be bound by the terms and conditions of this CCA-4.0 License — further in the text as "public license".
+
+<h5>Section I: Definitions</h5>
+
+1. Adapted material — means material subject to copyright and similar rights that is derived from or based upon the licensed Material and in which the licensed material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the copyright and similar rights held by the licensor. 
+
+    For purposes of this public license, where the licensed material is a musical work, performance, or sound recording, adapted material is always produced where the licensed material is synched in timed relation with a moving image.
+
+2. Adapter's license — means the license you apply to your copyright and similar rights in your contributions to adapted material in accordance with the terms and conditions of this oublic license.
+
+3. BY-SA compatible license — means a license listed at given below website, approved by CCA as essentially the equivalent of this public license.
+
+4. Effective technological measures — means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.
+
+5. Exceptions and Limitations means fair use, fair dealing, and/or any other exception or limitation to Copyright and Similar Rights that applies to Your use of the Licensed Material.
