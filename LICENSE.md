@@ -59,6 +59,7 @@ By exercising the licensed rights which defined below in this paragraph, you acc
     <li>
     «Adapted material» — means material subject to copyright and similar rights that is derived from or based upon the licensed Material and in which the licensed material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the copyright and similar rights held by the licensor. 
     </li>
+    </br>
     <ul>
     For purposes of this public license, where the licensed material is a musical work, performance, or sound recording, adapted material is always produced where the licensed material is synched in timed relation with a moving image.
     </ul>
