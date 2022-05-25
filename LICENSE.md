@@ -135,8 +135,8 @@ By exercising the licensed rights which defined below in this paragraph, you acc
 a. <strong>License grants.</strong>
 <ol>
     <li>
-    Subject to the terms and conditions of this public License, the licensor hereby grants you a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the licensed rights in the licensed material to:
-    <br/>
+    <strong>Subject to the terms and conditions of this public license:</strong> the licensor hereby grants you a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the licensed rights in the licensed material to:
+    </br>
         <ul>
         <li>
         (A). reproduce and share the licensed material, in whole or in part.
@@ -148,14 +148,14 @@ a. <strong>License grants.</strong>
     </li>
     </br>
     <li>
-    Exceptions and limitations — for the avoidance of doubt, where exceptions and limitations apply to your use, this public license does not apply, and you do not need to comply with its terms and conditions.
+    <strong>Exceptions and limitations:</strong> for the avoidance of doubt, where exceptions and limitations apply to your use, this public license does not apply, and you do not need to comply with its terms and conditions.
     </li>
     <li>
-    Term — the term of this public license is specified in "sct. 6(a)".
+    <strong>Term:</strong> the term of this public license is specified in "sct. 6(a)".
     </li>
     <li>
-    Media-formats and technical modifications allowed — the licensor authorizes you to exercise the licensed rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so.
-    <br/>
+    <strong>Media-formats and technical modifications allowed:</strong> the licensor authorizes you to exercise the licensed rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so.
+    </br>
         <ul>
         <li>
         Licensor waives and/or agrees not to assert any right or authority to forbid you from making technical modifications necessary to exercise the licensed rights, including technical modifications necessary to circumvent effective technological measures.
@@ -167,23 +167,23 @@ a. <strong>License grants.</strong>
     </li>
     </br>
     <li>
-    Downstream recipients.
-    <br/>
+    <strong>Downstream recipients:</strong>
+    </br>
         <ul>
         <li>
-        (A). Offer from the licensor – licensed material: every recipient of the licensed material automatically receives an offer from the licensor to exercise the licensed rights under the terms and conditions of this public license.
+        (A). <strong>Offer from the licensor:</strong> – licensed material: every recipient of the licensed material automatically receives an offer from the licensor to exercise the licensed rights under the terms and conditions of this public license.
         </li>
         <li>
-        (B). Additional offer from the licensor – adapted material: every recipient of adapted material from you automatically receives an offer from the licensor to exercise the licensed rights in the adapted material under the conditions of the adapter’s license you apply.
+        (B). <strong>Additional offer from the licensor:</strong> adapted material: every recipient of adapted material from you automatically receives an offer from the licensor to exercise the licensed rights in the adapted material under the conditions of the adapter’s license you apply.
         </li>
         <li>
-        (C). No downstream restrictions: you may not offer or impose any additional or different terms or conditions on, or apply any effective technological measures to, the licensed material if doing so restricts exercise of the licensed rights by any recipient of the licensed material.
+        (C). <strong>No downstream restrictions:</strong> you may not offer or impose any additional or different terms or conditions on, or apply any effective technological measures to, the licensed material if doing so restricts exercise of the licensed rights by any recipient of the licensed material.
         </li>
         </ul>
     </li>
     </br>
     <li>
-    No endorsement — nothing in this public license constitutes or may be construed as permission to assert or imply that you are, or that your use of the licensed material is, connected with, or sponsored, endorsed, or granted official status by, the licensor or others designated to receive attribution as provided in "sct. 3(a)(1)(A)(i)".
+    <strong>No endorsement:</strong> nothing in this public license constitutes or may be construed as permission to assert or imply that you are, or that your use of the licensed material is, connected with, or sponsored, endorsed, or granted official status by, the licensor or others designated to receive attribution as provided in "sct. 3(a)(1)(A)(i)".
     </li>
 </ol>
 </details>
