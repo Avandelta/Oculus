@@ -71,7 +71,7 @@ By exercising the licensed rights which defined below in this paragraph, you acc
     <!-- Breakthrough commentary for better view of source code of this HTML/MD document -->
     </br>
     <li>
-    «Adapter's license»</strong> — means the license you apply to your copyright and similar rights in your contributions to adapted material in accordance with the terms and conditions of this oublic license.
+    <strong>«Adapter's license»</strong> — means the license you apply to your copyright and similar rights in your contributions to adapted material in accordance with the terms and conditions of this oublic license.
     </li>
     <li>
     <strong>«BY-SA compatible license»</strong> — means a license listed at given below website, approved by CCA as essentially the equivalent of this public license.
@@ -184,6 +184,22 @@ a. <strong>License grants.</strong>
     </br>
     <li>
     <strong>No endorsement:</strong> nothing in this public license constitutes or may be construed as permission to assert or imply that you are, or that your use of the licensed material is, connected with, or sponsored, endorsed, or granted official status by, the licensor or others designated to receive attribution as provided in "sct. 3(a)(1)(A)(i)".
+    </li>
+</ol>
+</br>
+b. <strong>Other rights.</strong>
+<ol>
+    <li>
+    Moral rights, such as the right of integrity, are not licensed under this public license, nor are publicity, privacy, and/or other similiar personality rights: however, to the extent possible, the licensor waives and/or agrees not to assert any such rights held by the licensor to the limited extent necessary to allow you to exercise the licensed rights, but not otherwise.
+    </li>
+    <li>
+    Patent and trademark rights are not licensed under this public license.
+    </li>
+    <li>
+    To the extent possible, the licensor waives any right to collect royalties from you for the exercise of the licensed rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme.
+    </li>
+    <li>
+    In all other cases the licensor expressly reserves any right to collect such royalties.
     </li>
 </ol>
 </details>
