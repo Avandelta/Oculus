@@ -32,7 +32,7 @@ Following considerations are for informational purposes only, are not exhaustive
 
 </br>
 
-- https://wiki.creativecommons.org/wiki/Considerations_for_licensors_and_licensees#Considerations_for_licensors
+https://wiki.creativecommons.org/wiki/Considerations_for_licensors_and_licensees#Considerations_for_licensors
 
 This includes other CC-licensed material, or material used under an exception or limitation to copyright.
 
@@ -47,7 +47,7 @@ This includes other CC-licensed material, or material used under an exception or
 
 </br>
 
-- https://wiki.creativecommons.org/wiki/Considerations_for_licensors_and_licensees#Considerations_for_licensees
+https://wiki.creativecommons.org/wiki/Considerations_for_licensors_and_licensees#Considerations_for_licensees
 
 <h4>Contents of CCA-4.0 License</h4>
 
@@ -59,7 +59,7 @@ By exercising the licensed rights which defined below in this paragraph, you acc
     <summary><h5>Section I: Definitions</h5></summary>
 <ol>
     <li>
-    «Adapted material» — means material subject to copyright and similar rights that is derived from or based upon the licensed Material and in which the licensed material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the copyright and similar rights held by the licensor. 
+    <strong>«Adapted material»</strong> — means material subject to copyright and similar rights that is derived from or based upon the licensed Material and in which the licensed material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the copyright and similar rights held by the licensor. 
     </li>
     <!-- Breakthrough commentary for better view of source code of this HTML/MD document -->
     </br>
@@ -71,13 +71,13 @@ By exercising the licensed rights which defined below in this paragraph, you acc
     <!-- Breakthrough commentary for better view of source code of this HTML/MD document -->
     </br>
     <li>
-    «Adapter's license» — means the license you apply to your copyright and similar rights in your contributions to adapted material in accordance with the terms and conditions of this oublic license.
+    «Adapter's license»</strong> — means the license you apply to your copyright and similar rights in your contributions to adapted material in accordance with the terms and conditions of this oublic license.
     </li>
     <li>
-    «BY-SA compatible license» — means a license listed at given below website, approved by CCA as essentially the equivalent of this public license.
+    <strong>«BY-SA compatible license»</strong> — means a license listed at given below website, approved by CCA as essentially the equivalent of this public license.
     </li>
     <li>
-    «Copyright and similar rights» — means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and «Sui Generis Database Rights», without regard to how the rights are labeled or categorized. 
+    <strong>«Copyright and similar rights»</strong> — means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and «Sui Generis Database Rights», without regard to how the rights are labeled or categorized. 
     </li>
     <!-- Breakthrough commentary for better view of source code of this HTML/MD document -->
     </br>
@@ -89,13 +89,13 @@ By exercising the licensed rights which defined below in this paragraph, you acc
     <!-- Breakthrough commentary for better view of source code of this HTML/MD document -->
     </br>
     <li>
-    «Effective technological measures» — means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under «Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996», and/or similar international agreements.
+    <strong>«Effective technological measures»</strong> — means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under «Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996», and/or similar international agreements.
     </li>
     <li>
-    «Exceptions and limitations» — means fair use, fair dealing, and/or any other exception or limitation to copyright and similar rights that applies to your use of the licensed material.
+    <strong>«Exceptions and limitations»</strong> — means fair use, fair dealing, and/or any other exception or limitation to copyright and similar rights that applies to your use of the licensed material.
     </li>
     <li>
-    «License elements» — means the license attributes listed in the name of a «Creative Commons Public License».
+    <strong>«License elements»</strong> — means the license attributes listed in the name of a «Creative Commons Public License».
     </li>
     <!-- Breakthrough commentary for better view of source code of this HTML/MD document -->
     </br>
@@ -107,22 +107,22 @@ By exercising the licensed rights which defined below in this paragraph, you acc
     <!-- Breakthrough commentary for better view of source code of this HTML/MD document -->
     </br>
     <li>
-    «Licensed material» — means the artistic or literary work, database, or other material to which the licensor applied this public license.
+    <strong>«Licensed material»</strong> — means the artistic or literary work, database, or other material to which the licensor applied this public license.
     </li>
     <li>
-    «Licensed Rights» — means the rights granted to you subject to the terms and conditions of this public license, which are limited to all copyright and similar rights that apply to your use of the licensed material and that the licensor has authority to license.
+    <strong>«Licensed Rights»</strong> — means the rights granted to you subject to the terms and conditions of this public license, which are limited to all copyright and similar rights that apply to your use of the licensed material and that the licensor has authority to license.
     </li>
     <li>
-    «Licensor» — means the individual(s) or entity(ies) granting rights under this public license.
+    <strong>«Licensor»</strong> — means the individual(s) or entity(ies) granting rights under this public license.
     </li>
     <li>
-    «Share» — means to provide material to the public by any means or process that requires permission under the licensed rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.
+    <strong>«Share»</strong> — means to provide material to the public by any means or process that requires permission under the licensed rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.
     </li>
     <li>
-    «Sui Generis database rights» — means rights other than copyright resulting from «Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996» on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.
+    <strong>«Sui Generis database rights»</strong> — means rights other than copyright resulting from «Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996» on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.
     </li>
     <li>
-    «You» — means the individual or entity exercising the licensed rights under this public license. 
+    <strong>«You»</strong> — means the individual or entity exercising the licensed rights under this public license. 
     </li>
 </ol>
 </details>
