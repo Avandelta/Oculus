@@ -187,7 +187,9 @@ a. <strong>License grants.</strong>
     </li>
 </ol>
 </br>
+
 b. <strong>Other rights.</strong>
+</br>
 <ol>
     <li>
     Moral rights, such as the right of integrity, are not licensed under this public license, nor are publicity, privacy, and/or other similiar personality rights: however, to the extent possible, the licensor waives and/or agrees not to assert any such rights held by the licensor to the limited extent necessary to allow you to exercise the licensed rights, but not otherwise.
