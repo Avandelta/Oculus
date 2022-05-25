@@ -134,6 +134,7 @@ By exercising the licensed rights which defined below in this paragraph, you acc
 <ol>
     <li>
     Subject to the terms and conditions of this public License, the licensor hereby grants you a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the licensed rights in the licensed material to:
+    <br/>
         <ul>
         <li>
         (A): reproduce and share the licensed material, in whole or in part.
@@ -143,5 +144,25 @@ By exercising the licensed rights which defined below in this paragraph, you acc
         </li>
         </ul>
     </li>
+    </br>
+    <li>
+    Exceptions and limitations — for the avoidance of doubt, where exceptions and limitations apply to your use, this public license does not apply, and you do not need to comply with its terms and conditions.
+    </li>
+    <li>
+    Term — the term of this public license is specified in "sct. 6(a)".
+    </li>
+    <li>
+    <h6>Media and formats, technical modifications allowed</h6> — the licensor authorizes you to exercise the licensed rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so.
+    <br/>
+        <ul>
+        <li>
+        Licensor waives and/or agrees not to assert any right or authority to forbid you from making technical modifications necessary to exercise the licensed rights, including technical modifications necessary to circumvent effective technological measures.
+        </li>
+        <li>
+        For purposes of this public license, simply making modifications authorized by this "sct. 2(a)(4)" never produces adapted material.
+        </li>
+        </ul>
+    </li>
+    </br>
 </ol>
 </details>
