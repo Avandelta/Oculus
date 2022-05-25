@@ -57,7 +57,7 @@ By exercising the licensed rights which defined below in this paragraph, you acc
 
 1. «Adapted material» — means material subject to copyright and similar rights that is derived from or based upon the licensed Material and in which the licensed material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the copyright and similar rights held by the licensor. 
 
-    For purposes of this public license, where the licensed material is a musical work, performance, or sound recording, adapted material is always produced where the licensed material is synched in timed relation with a moving image.
+     For purposes of this public license, where the licensed material is a musical work, performance, or sound recording, adapted material is always produced where the licensed material is synched in timed relation with a moving image.
 
 2. «Adapter's license» — means the license you apply to your copyright and similar rights in your contributions to adapted material in accordance with the terms and conditions of this oublic license.
 
@@ -65,7 +65,7 @@ By exercising the licensed rights which defined below in this paragraph, you acc
 
 4. «Copyright and similar rights» — means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and «Sui Generis Database Rights», without regard to how the rights are labeled or categorized. 
 
-    For purposes of this public License, the rights specified in "sct. 2(b)(1)-(2)" are not copyright and similar rights.
+     For purposes of this public License, the rights specified in "sct. 2(b)(1)-(2)" are not copyright and similar rights.
 
 5. «Effective technological measures» — means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under «Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996», and/or similar international agreements.
 
@@ -73,7 +73,7 @@ By exercising the licensed rights which defined below in this paragraph, you acc
 
 7. «License elements» — means the license attributes listed in the name of a «Creative Commons Public License» . 
  
-    License elements of this public license are attribution and "ShareAlike".
+     License elements of this public license are attribution and "ShareAlike".
 
 10. «Licensed material» — means the artistic or literary work, database, or other material to which the licensor applied this public license.
 
@@ -87,6 +87,6 @@ By exercising the licensed rights which defined below in this paragraph, you acc
 
 15. «You» — means the individual or entity exercising the licensed rights under this public license. 
 
-    Your has a corresponding meaning.
+     Your has a corresponding meaning.
 
 <h5>Section II: Scopes</h5>
