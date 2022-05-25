@@ -64,7 +64,9 @@ By exercising the licensed rights which defined below in this paragraph, you acc
     <!-- Breakthrough commentary for better view of source code of this HTML/MD document -->
     </br>
     <ul>
+    <li>
     For purposes of this public license, where the licensed material is a musical work, performance, or sound recording, adapted material is always produced where the licensed material is synched in timed relation with a moving image.
+    </li>
     </ul>
     <!-- Breakthrough commentary for better view of source code of this HTML/MD document -->
     </br>
@@ -80,7 +82,9 @@ By exercising the licensed rights which defined below in this paragraph, you acc
     <!-- Breakthrough commentary for better view of source code of this HTML/MD document -->
     </br>
     <ul>
+    <li>
     For purposes of this public License, the rights specified in "sct. 2(b)(1)-(2)" are not copyright and similar rights.
+    </li>
     </ul>
     <!-- Breakthrough commentary for better view of source code of this HTML/MD document -->
     </br>
@@ -96,7 +100,9 @@ By exercising the licensed rights which defined below in this paragraph, you acc
     <!-- Breakthrough commentary for better view of source code of this HTML/MD document -->
     </br>
     <ul>
+    <li>
     License elements of this public license are attribution and "ShareAlike".
+    </li>
     </ul>
     <!-- Breakthrough commentary for better view of source code of this HTML/MD document -->
     </br>
@@ -118,14 +124,24 @@ By exercising the licensed rights which defined below in this paragraph, you acc
     <li>
     «You» — means the individual or entity exercising the licensed rights under this public license. 
     </li>
-    <!-- Breakthrough commentary for better view of source code of this HTML/MD document -->
-    </br>
-    <ul>
-    Your has a corresponding meaning.
-    </ul>
 </ol>
 </details>
 
-<!-- Didn't use the breakline because next line is a header -->
+<!-- Declaring the next section of public license: the scopes -->
 
-<h5>Section II: Scopes</h5>
+<details>
+    <summary><h5>Section II: Scopes</h5></summary>
+<ol>
+    <li>
+    Subject to the terms and conditions of this public License, the licensor hereby grants you a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the licensed rights in the licensed material to:
+        <ul>
+        <li>
+        (A): reproduce and share the licensed material, in whole or in part.
+        </li>
+        <li>
+        (B): produce, reproduce, and share adapted material.
+        </li>
+        </ul>
+    </li>
+</ol>
+</details>
