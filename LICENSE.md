@@ -136,8 +136,8 @@ a. <strong>License grants.</strong>
 <ol>
     <li>
     <strong>Subject to the terms and conditions of this public license:</strong> the licensor hereby grants you a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the licensed rights in the licensed material to:
-        </br>
         <ul>
+        </br>
         <li>
         (A). reproduce and share the licensed material, in whole or in part.
         </li>
