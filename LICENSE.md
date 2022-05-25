@@ -55,14 +55,38 @@ By exercising the licensed rights which defined below in this paragraph, you acc
 
 <h5>Section I: Definitions</h5>
 
-1. Adapted material — means material subject to copyright and similar rights that is derived from or based upon the licensed Material and in which the licensed material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the copyright and similar rights held by the licensor. 
+1. «Adapted material» — means material subject to copyright and similar rights that is derived from or based upon the licensed Material and in which the licensed material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the copyright and similar rights held by the licensor. 
 
     For purposes of this public license, where the licensed material is a musical work, performance, or sound recording, adapted material is always produced where the licensed material is synched in timed relation with a moving image.
 
-2. Adapter's license — means the license you apply to your copyright and similar rights in your contributions to adapted material in accordance with the terms and conditions of this oublic license.
+2. «Adapter's license» — means the license you apply to your copyright and similar rights in your contributions to adapted material in accordance with the terms and conditions of this oublic license.
 
-3. BY-SA compatible license — means a license listed at given below website, approved by CCA as essentially the equivalent of this public license.
+3. «BY-SA compatible license» — means a license listed at given below website, approved by CCA as essentially the equivalent of this public license.
 
-4. Effective technological measures — means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.
+4. «Copyright and similar rights» — means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and «Sui Generis Database Rights», without regard to how the rights are labeled or categorized. 
 
-5. Exceptions and Limitations means fair use, fair dealing, and/or any other exception or limitation to Copyright and Similar Rights that applies to Your use of the Licensed Material.
+    For purposes of this public License, the rights specified in "sct. 2(b)(1)-(2)" are not copyright and similar rights.
+
+5. «Effective technological measures» — means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under «Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996», and/or similar international agreements.
+
+6. «Exceptions and limitations» — means fair use, fair dealing, and/or any other exception or limitation to copyright and similar rights that applies to your use of the licensed material.
+
+7. «License elements» — means the license attributes listed in the name of a «Creative Commons Public License» . 
+ 
+    License elements of this public license are attribution and "ShareAlike".
+
+10. «Licensed material» — means the artistic or literary work, database, or other material to which the licensor applied this public license.
+
+11. «Licensed Rights» — means the rights granted to you subject to the terms and conditions of this public license, which are limited to all copyright and similar rights that apply to your use of the licensed material and that the licensor has authority to license.
+
+12. «Licensor» — means the individual(s) or entity(ies) granting rights under this public license.
+
+13. «Share» — means to provide material to the public by any means or process that requires permission under the licensed rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.
+
+14. «Sui Generis database rights» — means rights other than copyright resulting from «Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996» on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.
+
+15. «You» — means the individual or entity exercising the licensed rights under this public license. 
+
+    Your has a corresponding meaning.
+
+<h5>Section II: Scopes</h5>
