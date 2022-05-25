@@ -155,8 +155,8 @@ a. <strong>License grants.</strong>
     </li>
     <li>
     <strong>Media-formats and technical modifications allowed:</strong> the licensor authorizes you to exercise the licensed rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so.
-    </br>
         <ul>
+        </br>
         <li>
         Licensor waives and/or agrees not to assert any right or authority to forbid you from making technical modifications necessary to exercise the licensed rights, including technical modifications necessary to circumvent effective technological measures.
         </li>
@@ -168,8 +168,8 @@ a. <strong>License grants.</strong>
     </br>
     <li>
     <strong>Downstream recipients:</strong>
-    </br>
         <ul>
+        </br>
         <li>
         (A). <strong>Offer from the licensor:</strong> – licensed material: every recipient of the licensed material automatically receives an offer from the licensor to exercise the licensed rights under the terms and conditions of this public license.
         </li>
