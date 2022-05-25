@@ -55,8 +55,8 @@ By exercising the licensed rights which defined below in this paragraph, you acc
 
 <!-- Declaring definitions on CCA-4.0 license -->
 
-<h5>Section I: Definitions</h5>
-
+<details>
+    <summary><h5>Section I: Definitions</h5></summary>
 <ol>
     <li>
     «Adapted material» — means material subject to copyright and similar rights that is derived from or based upon the licensed Material and in which the licensed material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the copyright and similar rights held by the licensor. 
@@ -124,6 +124,7 @@ By exercising the licensed rights which defined below in this paragraph, you acc
     Your has a corresponding meaning.
     </ul>
 </ol>
+</details>
 
 <!-- Didn't use the breakline because next line is a header -->
 
