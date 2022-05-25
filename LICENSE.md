@@ -63,36 +63,54 @@ By exercising the licensed rights which defined below in this paragraph, you acc
     <ul>
     For purposes of this public license, where the licensed material is a musical work, performance, or sound recording, adapted material is always produced where the licensed material is synched in timed relation with a moving image.
     </ul>
-</ol>
-
-1. «Adapter's license» — means the license you apply to your copyright and similar rights in your contributions to adapted material in accordance with the terms and conditions of this oublic license.
-
-2. «BY-SA compatible license» — means a license listed at given below website, approved by CCA as essentially the equivalent of this public license.
-
-3. «Copyright and similar rights» — means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and «Sui Generis Database Rights», without regard to how the rights are labeled or categorized. 
-
+    <li>
+    «Adapter's license» — means the license you apply to your copyright and similar rights in your contributions to adapted material in accordance with the terms and conditions of this oublic license.
+    </li>
+    <li>
+    «BY-SA compatible license» — means a license listed at given below website, approved by CCA as essentially the equivalent of this public license.
+    </li>
+    <li>
+    «Copyright and similar rights» — means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and «Sui Generis Database Rights», without regard to how the rights are labeled or categorized. 
+    </li>
+    </br>
+    <ul>
     For purposes of this public License, the rights specified in "sct. 2(b)(1)-(2)" are not copyright and similar rights.
-
-4. «Effective technological measures» — means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under «Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996», and/or similar international agreements.
-
-5. «Exceptions and limitations» — means fair use, fair dealing, and/or any other exception or limitation to copyright and similar rights that applies to your use of the licensed material.
-
-6. «License elements» — means the license attributes listed in the name of a «Creative Commons Public License».
-
-License elements of this public license are attribution and "ShareAlike".
-
-8.  «Licensed material» — means the artistic or literary work, database, or other material to which the licensor applied this public license.
-
-9.  «Licensed Rights» — means the rights granted to you subject to the terms and conditions of this public license, which are limited to all copyright and similar rights that apply to your use of the licensed material and that the licensor has authority to license.
-
-10. «Licensor» — means the individual(s) or entity(ies) granting rights under this public license.
-
-11. «Share» — means to provide material to the public by any means or process that requires permission under the licensed rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.
-
-12. «Sui Generis database rights» — means rights other than copyright resulting from «Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996» on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.
-
-13. «You» — means the individual or entity exercising the licensed rights under this public license. 
-
+    </ul>
+    <li>
+    «Effective technological measures» — means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under «Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996», and/or similar international agreements.
+    </li>
+    <li>
+    «Exceptions and limitations» — means fair use, fair dealing, and/or any other exception or limitation to copyright and similar rights that applies to your use of the licensed material.
+    </li>
+    <li>
+    «License elements» — means the license attributes listed in the name of a «Creative Commons Public License».
+    </li>
+    </br>
+    <ul>
+    License elements of this public license are attribution and "ShareAlike".
+    </ul>
+    <li>
+    «Licensed material» — means the artistic or literary work, database, or other material to which the licensor applied this public license.
+    </li>
+    <li>
+    «Licensed Rights» — means the rights granted to you subject to the terms and conditions of this public license, which are limited to all copyright and similar rights that apply to your use of the licensed material and that the licensor has authority to license.
+    </li>
+    <li>
+    «Licensor» — means the individual(s) or entity(ies) granting rights under this public license.
+    </li>
+    <li>
+    «Share» — means to provide material to the public by any means or process that requires permission under the licensed rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.
+    </li>
+    <li>
+    «Sui Generis database rights» — means rights other than copyright resulting from «Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996» on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.
+    </li>
+    <li>
+    «You» — means the individual or entity exercising the licensed rights under this public license. 
+    </li>
+    </br>
+    <ul>
     Your has a corresponding meaning.
+    </ul>
+</ol>
 
 <h5>Section II: Scopes</h5>
