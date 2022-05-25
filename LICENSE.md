@@ -53,16 +53,21 @@ This includes other CC-licensed material, or material used under an exception or
 
 By exercising the licensed rights which defined below in this paragraph, you accept and agree to be bound by the terms and conditions of this CCA-4.0 License — further in the text as "public license".
 
+<!-- Declaring definitions on CCA-4.0 license -->
+
 <h5>Section I: Definitions</h5>
 
 <ol>
     <li>
     «Adapted material» — means material subject to copyright and similar rights that is derived from or based upon the licensed Material and in which the licensed material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the copyright and similar rights held by the licensor. 
     </li>
+    <!-- Breakthrough commentary for better view of source code of this HTML/MD document -->
     </br>
     <ul>
     For purposes of this public license, where the licensed material is a musical work, performance, or sound recording, adapted material is always produced where the licensed material is synched in timed relation with a moving image.
     </ul>
+    <!-- Breakthrough commentary for better view of source code of this HTML/MD document -->
+    </br>
     <li>
     «Adapter's license» — means the license you apply to your copyright and similar rights in your contributions to adapted material in accordance with the terms and conditions of this oublic license.
     </li>
@@ -72,10 +77,13 @@ By exercising the licensed rights which defined below in this paragraph, you acc
     <li>
     «Copyright and similar rights» — means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and «Sui Generis Database Rights», without regard to how the rights are labeled or categorized. 
     </li>
+    <!-- Breakthrough commentary for better view of source code of this HTML/MD document -->
     </br>
     <ul>
     For purposes of this public License, the rights specified in "sct. 2(b)(1)-(2)" are not copyright and similar rights.
     </ul>
+    <!-- Breakthrough commentary for better view of source code of this HTML/MD document -->
+    </br>
     <li>
     «Effective technological measures» — means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under «Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996», and/or similar international agreements.
     </li>
@@ -85,10 +93,13 @@ By exercising the licensed rights which defined below in this paragraph, you acc
     <li>
     «License elements» — means the license attributes listed in the name of a «Creative Commons Public License».
     </li>
+    <!-- Breakthrough commentary for better view of source code of this HTML/MD document -->
     </br>
     <ul>
     License elements of this public license are attribution and "ShareAlike".
     </ul>
+    <!-- Breakthrough commentary for better view of source code of this HTML/MD document -->
+    </br>
     <li>
     «Licensed material» — means the artistic or literary work, database, or other material to which the licensor applied this public license.
     </li>
@@ -107,10 +118,13 @@ By exercising the licensed rights which defined below in this paragraph, you acc
     <li>
     «You» — means the individual or entity exercising the licensed rights under this public license. 
     </li>
+    <!-- Breakthrough commentary for better view of source code of this HTML/MD document -->
     </br>
     <ul>
     Your has a corresponding meaning.
     </ul>
 </ol>
+
+<!-- Didn't use the breakline because next line is a header -->
 
 <h5>Section II: Scopes</h5>
