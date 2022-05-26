@@ -315,22 +315,16 @@ For the avoidance of doubt, this "sct. 4" supplements and does not replace your 
 
 <ol>
     <li>
-    <h6>
     Unless otherwise separately undertaken by the licensor, to the extent possible, the licensor offers the licensed material as-is and as-available, and makes no representations or warranties of any kind concerning the licensed material, whether express, implied, statutory, or other.
-    </h6>
     </br>
     <ol>
         <li>
-        <h6>
         This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable, where, disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to you.
-        </h6>
         </li>
     </ol>
     </br>
     <li>
-    <h6>
     To the extent possible, in no event will the licensor be liable to you on any legal theory, including, without limitation, negligence, or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this public license or use of the licensed material, even if the licensor has been advised of the possibility of such losses, costs, expenses, or damages, where, a limitation of liability is not allowed in full or in part, this limitation may not apply to you.
-    </h6>
     </li>
     <li>
     The disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.
