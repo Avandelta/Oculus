@@ -63,13 +63,13 @@ By exercising the licensed rights which defined below in this paragraph, you acc
     </li>
     <!-- Breakthrough commentary for better view of source code of this HTML/MD document -->
     </br>
-    <ul>
-    <li>
-    For purposes of this public license, where the licensed material is a musical work, performance, or sound recording, adapted material is always produced where the licensed material is synched in timed relation with a moving image.
-    </li>
-    </ul>
+        <ol>
+        <li>
+        For purposes of this public license, where the licensed material is a musical work, performance, or sound recording, adapted material is always produced where the licensed material is synched in timed relation with a moving image.
+        </li>
+        </ol>
     <!-- Breakthrough commentary for better view of source code of this HTML/MD document -->
-    </br>
+        </br>
     <li>
     <strong>«Adapter's license»</strong> — means the license you apply to your copyright and similar rights in your contributions to adapted material in accordance with the terms and conditions of this oublic license.
     </li>
@@ -81,13 +81,13 @@ By exercising the licensed rights which defined below in this paragraph, you acc
     </li>
     <!-- Breakthrough commentary for better view of source code of this HTML/MD document -->
     </br>
-    <ul>
-    <li>
-    For purposes of this public License, the rights specified in "sct. 2(b)(1)-(2)" are not copyright and similar rights.
-    </li>
-    </ul>
-    <!-- Breakthrough commentary for better view of source code of this HTML/MD document -->
-    </br>
+        <ol>
+        <li>
+        For purposes of this public License, the rights specified in "sct. 2(b)(1)-(2)" are not copyright and similar rights.
+        </li>
+        </ol>
+        <!-- Breakthrough commentary for better view of source code of this HTML/MD document -->
+        </br>
     <li>
     <strong>«Effective technological measures»</strong> — means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under «Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996», and/or similar international agreements.
     </li>
@@ -99,13 +99,13 @@ By exercising the licensed rights which defined below in this paragraph, you acc
     </li>
     <!-- Breakthrough commentary for better view of source code of this HTML/MD document -->
     </br>
-    <ul>
-    <li>
-    License elements of this public license are attribution and "ShareAlike".
-    </li>
-    </ul>
-    <!-- Breakthrough commentary for better view of source code of this HTML/MD document -->
-    </br>
+        <ol>
+        <li>
+        License elements of this public license are attribution and "ShareAlike".
+        </li>
+        </ol>
+        <!-- Breakthrough commentary for better view of source code of this HTML/MD document -->
+        </br>
     <li>
     <strong>«Licensed material»</strong> — means the artistic or literary work, database, or other material to which the licensor applied this public license.
     </li>
@@ -136,15 +136,15 @@ a. <strong>License grants.</strong>
 <ol>
     <li>
     <strong>Subject to the terms and conditions of this public license:</strong> the licensor hereby grants you a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the licensed rights in the licensed material to:
-        <ul>
+        <ol>
         </br>
         <li>
-        (A). reproduce and share the licensed material, in whole or in part.
+        reproduce and share the licensed material, in whole or in part.
         </li>
         <li>
-        (B). produce, reproduce, and share adapted material.
+        produce, reproduce, and share adapted material.
         </li>
-        </ul>
+        </ol>
     </li>
     </br>
     <li>
@@ -155,7 +155,7 @@ a. <strong>License grants.</strong>
     </li>
     <li>
     <strong>Media-formats and technical modifications allowed:</strong> the licensor authorizes you to exercise the licensed rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so.
-        <ul>
+        <ol>
         </br>
         <li>
         Licensor waives and/or agrees not to assert any right or authority to forbid you from making technical modifications necessary to exercise the licensed rights, including technical modifications necessary to circumvent effective technological measures.
@@ -163,23 +163,23 @@ a. <strong>License grants.</strong>
         <li>
         For purposes of this public license, simply making modifications authorized by this "sct. 2(a)(4)" never produces adapted material.
         </li>
-        </ul>
+        </ol>
     </li>
     </br>
     <li>
     <strong>Downstream recipients:</strong>
-        <ul>
+        <ol>
         </br>
         <li>
-        (A). <strong>Offer from the licensor:</strong> – licensed material: every recipient of the licensed material automatically receives an offer from the licensor to exercise the licensed rights under the terms and conditions of this public license.
+        <strong>Offer from the licensor:</strong> – licensed material: every recipient of the licensed material automatically receives an offer from the licensor to exercise the licensed rights under the terms and conditions of this public license.
         </li>
         <li>
-        (B). <strong>Additional offer from the licensor:</strong> adapted material: every recipient of adapted material from you automatically receives an offer from the licensor to exercise the licensed rights in the adapted material under the conditions of the adapter’s license you apply.
+        <strong>Additional offer from the licensor:</strong> adapted material: every recipient of adapted material from you automatically receives an offer from the licensor to exercise the licensed rights in the adapted material under the conditions of the adapter’s license you apply.
         </li>
         <li>
-        (C). <strong>No downstream restrictions:</strong> you may not offer or impose any additional or different terms or conditions on, or apply any effective technological measures to, the licensed material if doing so restricts exercise of the licensed rights by any recipient of the licensed material.
+        <strong>No downstream restrictions:</strong> you may not offer or impose any additional or different terms or conditions on, or apply any effective technological measures to, the licensed material if doing so restricts exercise of the licensed rights by any recipient of the licensed material.
         </li>
-        </ul>
+        </ol>
     </li>
     </br>
     <li>
@@ -218,10 +218,10 @@ a. <strong>Attribution.</strong>
 <ol>
     <li>
     If you share the licensed material, including in modified form, you must:
-        <ul>
+        <ol>
         </br>
         <li>
-        (A). retain the following if it is supplied by the licensor with the licensed material.
+        retain the following if it is supplied by the licensor with the licensed material.
         </li>
         </br>
             <ol>
@@ -240,12 +240,99 @@ a. <strong>Attribution.</strong>
             <li>
             a URI or hyperlink to the licensed material to the extent reasonably practicable.
             </li>
-            <li>
-            indicate if you modified the licensed material and retain an indication of any previous modifications.
-            </li>
-            <li>
-            indicate the licensed material is licensed under this public license, and include the text of, or the URI or hyperlink to, this public license.
-            </li>
-        </ul>
+        </ol>
+        </br>
+        <li>
+        indicate if you modified the licensed material and retain an indication of any previous modifications.
+        </li>
+        <li>
+        indicate the licensed material is licensed under this public license, and include the text of, or the URI or hyperlink to, this public license.
+        </li>
+    </ol>
+    </br>
+    <li>
+    You may satisfy the conditions in "sct. 3(a)(1)" in any reasonable manner based on the medium, means, and context in which you share the licensed material.
+    <ol>
+        </br>
+        <li>
+        For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.
+        </li>
+    </ol>
+    </br> 
+    </li>
+    <li>
+    If requested by the licensor, you must remove any of the information required by "sct. 3(a)(1)(A)" to the extent reasonably practicable.
+    </li>
+</ol>
+
+b. <strong>"ShareAlike".</strong>
+</br>
+</br>
+In addition to the conditions in "sct. 3(a)", if you share adapted material you produce, the following conditions also apply.
+</br>
+<ol>
+    <li>
+    Adapter’s license you apply must be a CCA license with the same license elements, this version or later, or a BY-SA Compatible License.
+    </li>
+    <li>
+    You must include the text of, or the URI or hyperlink to, the adapter's license you apply.
+    </li>
+    </br>
+    <ol>
+        <li>
+        You may satisfy this condition in any reasonable manner based on the medium, means, and context in which you share adapted material.
+        </li>
+    </ol>
+    </br>
+    <li>
+    You may not offer or impose any additional or different terms or conditions on, or apply any effective technological measures to, adapted material that restrict exercise of the rights granted under the adapter's license you apply.
+    </li>
 </ol>
 </details>
+
+<details>
+    <summary><h5>Section IV: Sui Generis database rights.</h5></summary>
+
+Where the licensed rights include «Sui Generis database rights» that apply to your use of the licensed material:
+</br>
+<ol>
+    <li>
+    for the avoidance of doubt, "sct. 2(a)(1)" grants you the right to extract, reuse, reproduce, and share all or a substantial portion of the contents of the database.
+    </li>
+    <li>
+    if you include all or a substantial portion of the database contents in a database in which you have «Sui Generis database rights», then the database in which you have «Sui Generis database rights», but not its individual contents, is adapted material, including for purposes of "sct. 3(b)".
+    </li>
+    <li>
+    you must comply with the conditions in "sct. 3(a)" if you share all or a substantial portion of the contents of the database.
+    </li>
+</ol>
+</br>
+
+For the avoidance of doubt, this "sct. 4" supplements and does not replace your obligations under this public license where the licensed rights include other copyright and similar rights.
+
+<details>
+    <summary><h5>Section V: Disclaimer of warranties and limitation of liability.</h5></summary>
+
+<ol>
+    <li>
+    <h6>
+    Unless otherwise separately undertaken by the licensor, to the extent possible, the licensor offers the licensed material as-is and as-available, and makes no representations or warranties of any kind concerning the licensed material, whether express, implied, statutory, or other.
+    </h6>
+    </br>
+    <ol>
+        <li>
+        <h6>
+        This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable, where, disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to you.
+        </h6>
+        </li>
+    </ol>
+    </br>
+    <li>
+    <h6>
+    To the extent possible, in no event will the licensor be liable to you on any legal theory, including, without limitation, negligence, or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this public license or use of the licensed material, even if the licensor has been advised of the possibility of such losses, costs, expenses, or damages, where, a limitation of liability is not allowed in full or in part, this limitation may not apply to you.
+    </h6>
+    </li>
+    <li>
+    The disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.
+    </li>
+</ol>
