@@ -1,5 +1,25 @@
 <!-- Default version of CCA-4.0 in markdown with custom format -->
 
+<h6>
+CCA is not a party to its public licenses, notwithstanding, CCA may elect to apply one of its public licenses to material it publishes and in those instances will be considered the "licensor".
+</h6>
+<h6>
+The text of the CCA public licenses is dedicated to the public domain under the «CC0 Public Domain Dedication», except, for the limited purpose of indicating that material is shared under a «Creative Commons Public License» or as otherwise permitted by the CCA's policies published at defined below link.
+</h6>
+
+- https://creativecommons.org/policies/
+
+<h6>
+CCA does not authorize the use of the trademark «Creative Commons» or any other trademark or logo of CCA without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material.
+</h6>
+<h6>
+For the avoidance of doubt, this paragraph does not form part of the public licenses.
+</h6>
+
+For the contact:
+
+- https://creativecommons.org/
+
 <h3>CCA-4.0 License</h3>
 
 Any file that published on this repository, is licensed and distributed under: [CCA-4.0 International License](LICENSE).
@@ -411,25 +431,3 @@ For the avoidance of doubt, this "sct. 6(b)" does not affect any right the licen
     </li>
 </ol>
 </details>
-
-<h4>Party policies</h4>
-
-<h6>
-CCA is not a party to its public licenses, notwithstanding, CCA may elect to apply one of its public licenses to material it publishes and in those instances will be considered the "licensor".
-</h6>
-<h6>
-The text of the CCA public licenses is dedicated to the public domain under the «CC0 Public Domain Dedication», except, for the limited purpose of indicating that material is shared under a «Creative Commons Public License» or as otherwise permitted by the CCA's policies published at defined below link.
-</h6>
-
-- https://creativecommons.org/policies/
-
-<h6>
-CCA does not authorize the use of the trademark «Creative Commons» or any other trademark or logo of CCA without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material.
-</h6>
-<h6>
-For the avoidance of doubt, this paragraph does not form part of the public licenses.
-</h6>
-
-For the contact:
-
-- https://creativecommons.org/
