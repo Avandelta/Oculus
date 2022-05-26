@@ -156,12 +156,10 @@ List of helpful and credited projects/resources.
 - [README pattern](README)
 - [.GITIGNORE](GITIGN)
 - [.GITATTRIBUTES](GITATT)
-- [.NET repository](.NET)
 
 [README]: https://github.com/othneildrew/Best-README-Template/
 [GITIGN]: https://github.com/github/gitignore/
 [GITATT]: https://github.com/alexkaratarakis/gitattributes/
-[.NET]: https://github.com/dotnet/core/
 
 <br />
 <p align="right"><a href="#top" title="Back to the top">↺</a></p>
