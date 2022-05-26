@@ -205,3 +205,47 @@ b. <strong>Other rights.</strong>
     </li>
 </ol>
 </details>
+
+<!-- Declaring the next section of public license: the scopes -->
+
+<details>
+    <summary><h5>Section III: Scopes</h5></summary>
+
+Your exercise of the licensed rights is expressly made subject to the following conditions.
+
+a. <strong>Attribution.</strong>
+</br>
+<ol>
+    <li>
+    If you share the licensed material, including in modified form, you must:
+        <ul>
+        </br>
+        <li>
+        (A). retain the following if it is supplied by the licensor with the licensed material.
+        </li>
+        </br>
+            <ol>
+            <li>
+            identification of the creator(s) of the licensed material and any others designated to receive attribution, in any reasonable manner requested by the licensor, including by pseudonym if designated.
+            </li>
+            <li>
+            a copyright notice.
+            </li>
+            <li>
+            a notice that refers to this public license.
+            </li>
+            <li>
+            a notice that refers to the disclaimer of warranties.
+            </li>
+            <li>
+            a URI or hyperlink to the licensed material to the extent reasonably practicable.
+            </li>
+            <li>
+            indicate if you modified the licensed material and retain an indication of any previous modifications.
+            </li>
+            <li>
+            indicate the licensed material is licensed under this public license, and include the text of, or the URI or hyperlink to, this public license.
+            </li>
+        </ul>
+</ol>
+</details>
