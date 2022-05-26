@@ -306,7 +306,6 @@ Where the licensed rights include «Sui Generis database rights» that apply to 
     you must comply with the conditions in "sct. 3(a)" if you share all or a substantial portion of the contents of the database.
     </li>
 </ol>
-</br>
 
 For the avoidance of doubt, this "sct. 4" supplements and does not replace your obligations under this public license where the licensed rights include other copyright and similar rights.
 
@@ -318,8 +317,8 @@ For the avoidance of doubt, this "sct. 4" supplements and does not replace your 
 <ol>
     <li>
     Unless otherwise separately undertaken by the licensor, to the extent possible, the licensor offers the licensed material as-is and as-available, and makes no representations or warranties of any kind concerning the licensed material, whether express, implied, statutory, or other.
-    </br>
     <ol>
+        </br>
         <li>
         This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable, where, disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to you.
         </li>
@@ -334,3 +333,101 @@ For the avoidance of doubt, this "sct. 4" supplements and does not replace your 
 </ol>
 </details>
 
+<details>
+    <summary><h4>Section VI: Terms and terminations.</h4></summary>
+
+<ol>
+    <li>
+    Public license applies for the term of the copyright and similar rights licensed here.
+    <ol>
+        </br>
+        <li>
+        However, if you fail to comply with this public license, then your rights under this public license terminate automatically.
+        </li>
+    </ol>
+    </li>
+    </br>
+    <li>
+    Where your right to use the licensed material has terminated under "sct. 6(a)", it reinstates:
+    <ol>
+        </br>
+        <li>
+        automatically as of the date the violation is cured, provided it is cured within "30 days" of your discovery of the violation.
+        </li>
+        <li>
+        upon express reinstatement by the licensor.
+        </li>
+    </ol>
+    </br>
+</ol>
+
+For the avoidance of doubt, this "sct. 6(b)" does not affect any right the licensor may have to seek remedies for your violations of this public license.
+
+<ol>
+    <li>
+    For the avoidance of doubt, the licensor may also offer the licensed material under separate terms or conditions or stop distributing the licensed material at any time, however, doing so will not terminate this public license.
+    </li>
+    <li>
+    The "scts. 1, 5, 6, 7 and 8" survive termination of this public license.
+    </li>
+</ol>
+</details>
+
+<details>
+    <summary><h4>Section VII: Other terms and conditions.</h4></summary>
+
+<ol>
+    <li>
+    Licensor shall not be bound by any additional or different terms or conditions communicated by you unless expressly agreed.
+    </li>
+    <li>
+    Any arrangements, understandings, or agreements regarding the licensed material not stated herein are separate from and independent of the terms and conditions of this public license.
+    </li>
+</ol>
+</details>
+
+<details>
+    <summary><h4>Section VIII: Interpretation</h4></summary>
+
+<ol>
+    <li>
+    For the avoidance of doubt, this public license does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of the licensed material that could lawfully be made without permission under this public license.
+    </li>
+    <li>
+    To the extent possible, if any provision of this public license is deemed unenforceable, it shall be automatically reformed to the minimum extent necessary to make it enforceable.
+    </li>
+    <ol>
+        </br>
+        <li>
+        If the provision cannot be reformed, it shall be severed from this Public License without affecting the enforceability of the remaining terms and conditions.
+        </li>
+    </ol>
+    </br>
+    <li>
+    No term or condition of this public license will be waived and no failure to comply consented to unless expressly agreed to by the licensor.
+    </li>
+    <li>
+    Nothing in this public license constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the licensor or you, including from the legal processes of any jurisdiction or authority.
+    </li>
+</ol>
+</details>
+
+<h6>
+CCA is not a party to its public licenses, notwithstanding, CCA may elect to apply one of its public licenses to material it publishes and in those instances will be considered the "licensor".
+</h6>
+<h6>
+The text of the CCA public licenses is dedicated to the public domain under the «CC0 Public Domain Dedication», except, for the limited purpose of indicating that material is shared under a «Creative Commons Public License» or as otherwise permitted by the CCA's policies published at defined below link.
+</h6>
+
+- https://creativecommons.org/policies/
+
+<h6>
+CCA does not authorize the use of the trademark «Creative Commons» or any other trademark or logo of CCA without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material.
+</h6>
+<h6>
+For the avoidance of doubt, this paragraph does not form part of the public licenses.
+</h6>
+
+For the contact:
+
+- https://creativecommons.org/
