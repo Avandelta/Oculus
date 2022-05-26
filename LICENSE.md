@@ -412,6 +412,8 @@ For the avoidance of doubt, this "sct. 6(b)" does not affect any right the licen
 </ol>
 </details>
 
+<h4>Party policies</h4>
+
 <h6>
 CCA is not a party to its public licenses, notwithstanding, CCA may elect to apply one of its public licenses to material it publishes and in those instances will be considered the "licensor".
 </h6>
