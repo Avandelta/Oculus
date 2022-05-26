@@ -49,14 +49,14 @@ This includes other CC-licensed material, or material used under an exception or
 
 https://wiki.creativecommons.org/wiki/Considerations_for_licensors_and_licensees#Considerations_for_licensees
 
-<h4>Contents of CCA-4.0 License</h4>
+<h3>Contents of CCA-4.0 License</h3>
 
 By exercising the licensed rights which defined below in this paragraph, you accept and agree to be bound by the terms and conditions of this CCA-4.0 License — further in the text as "public license".
 
 <!-- Declaring definitions on CCA-4.0 license -->
 
 <details>
-    <summary><h5>Section I: Definitions</h5></summary>
+    <summary><h4>Section I: Definitions</h4></summary>
 <ol>
     <li>
     <strong>«Adapted material»</strong> — means material subject to copyright and similar rights that is derived from or based upon the licensed Material and in which the licensed material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the copyright and similar rights held by the licensor. 
@@ -130,7 +130,7 @@ By exercising the licensed rights which defined below in this paragraph, you acc
 <!-- Declaring the next section of public license: the scopes -->
 
 <details>
-    <summary><h5>Section II: Scopes</h5></summary>
+    <summary><h4>Section II: Scopes</h4></summary>
 
 a. <strong>License grants.</strong>
 <ol>
@@ -209,7 +209,7 @@ b. <strong>Other rights.</strong>
 <!-- Declaring the next section of public license: the scopes -->
 
 <details>
-    <summary><h5>Section III: Scopes</h5></summary>
+    <summary><h4>Section III: Scopes</h4></summary>
 
 Your exercise of the licensed rights is expressly made subject to the following conditions.
 
@@ -291,7 +291,7 @@ In addition to the conditions in "sct. 3(a)", if you share adapted material you 
 </details>
 
 <details>
-    <summary><h5>Section IV: Sui Generis database rights.</h5></summary>
+    <summary><h4>Section IV: Sui Generis database rights.</h4></summary>
 
 Where the licensed rights include «Sui Generis database rights» that apply to your use of the licensed material:
 </br>
@@ -310,8 +310,10 @@ Where the licensed rights include «Sui Generis database rights» that apply to 
 
 For the avoidance of doubt, this "sct. 4" supplements and does not replace your obligations under this public license where the licensed rights include other copyright and similar rights.
 
+</details>
+
 <details>
-    <summary><h5>Section V: Disclaimer of warranties and limitation of liability.</h5></summary>
+    <summary><h4>Section V: Disclaimer of warranties and limitation of liability.</h4></summary>
 
 <ol>
     <li>
@@ -330,3 +332,5 @@ For the avoidance of doubt, this "sct. 4" supplements and does not replace your 
     The disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.
     </li>
 </ol>
+</details>
+
