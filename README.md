@@ -82,7 +82,7 @@ Project doesn't have any unique dependencies but written with:
 - [ ] Compiled a russian versions of documentation.
 - [ ] Successfully translated them in english.
 
-For a full list of proposed features and fixes see the: [open issues of repository](OPEN_ISSUES).
+For a full list of proposed features and fixes see the: [open issues of repository][OPEN_ISSUES].
 
 [OPEN_ISSUES]: https://github.com/OdysseaPROJECT/Jurisdiction/issues/
 
@@ -110,7 +110,7 @@ But keep in mind, that your contribution couldn't be applied but appreciated if 
 
 For one-single file contributioning, use a more quicker way without forking the repository.
 
-More about it in this article: [synching a one-single file fork](DCT_LINK).
+More about it in this article: [synching a one-single file fork][DCT_LINK].
 
 [DCT_LINK]: https://help.github.com/articles/syncing-a-fork/
 
@@ -127,7 +127,7 @@ Project is being distributed under: [CCA-4.0 License](./LICENSE.md).
         https://github.com/othneildrew/Best-README-Template
  -->
 
-Project's README made with help of: [a README pattern by Othneil Drew](REF).
+Project's README made with help of: [a README pattern by Othneil Drew][REF].
 
 [REF]: https://github.com/othneildrew/Best-README-Template/
 
@@ -153,9 +153,9 @@ Project ref is pinned at this repository.
 
 List of helpful and credited projects/resources.
 
-- [README pattern](README)
-- [.GITIGNORE](GITIGN)
-- [.GITATTRIBUTES](GITATT)
+- [README pattern][README]
+- [.GITIGNORE][GITIGN]
+- [.GITATTRIBUTES][GITATT]
 
 [README]: https://github.com/othneildrew/Best-README-Template/
 [GITIGN]: https://github.com/github/gitignore/
